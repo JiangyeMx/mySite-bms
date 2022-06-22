@@ -1,0 +1,1 @@
+export const SERVE_URL = "http://lcoalhost:7001"
